@@ -2,12 +2,19 @@
 
 one:
   title: MyString
-  description: MyText
-  image_url: MyString
+  description: MyText Has to be long.
+  image_url: lorem.jpg
   price: 9.99
 
 two:
   title: MyString
-  description: MyText
-  image_url: MyString
+  description: MyText has to be long
+  image_url: lorem.jpg
   price: 9.99
+
+ruby:
+  title: Programming Ruby 1.9
+  description: Foo bar random text
+  price: 49.50
+  image_url: ruby.jpg
+
